@@ -1,0 +1,16 @@
+{
+  
+"discord" : "bot token here",
+  
+"youtube" : "youtube api key here",
+  
+"osu" : "osu api key here",
+  
+"malUsername" : "",
+"malPassword" : "",
+"bing" : {
+    "search" : "bing search api key here",
+    "speech" : "speech key here",
+    "spellCheck" : "spellcheck key here"
+  }
+}
