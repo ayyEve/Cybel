@@ -1,0 +1,2 @@
+# Cybel
+Cybel Discord Bot
