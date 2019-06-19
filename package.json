@@ -1,26 +1,21 @@
 {
-  "name": "MusicBot",
+  "name": "cybel",
   "version": "2.0.0",
   "description": "",
   "main": "main.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "author": "Eve",
   "license": "ISC",
   "dependencies": {
-    "cleverbot-node": "^0.2.4",
-    "discord.js": "github:hydrabolt/discord.js#indev",
-    "express": "^4.14.0",
+    "cleverbot-node": "^0.3.11",
+    "discord.js": "^11.5.0",
     "ffmpeg": "0.0.4",
-    "forever": "^0.15.3",
-    "forever-monitor": "^1.7.1",
     "nedb": "^1.8.0",
-    "node-opus": "^0.2.2",
+    "opusscript": "0.0.6",
     "osu-api": "0.0.3",
-    "request": "^2.76.0",
-    "xml2js": "^0.4.17",
-    "youtube-node": "^1.3.0",
-    "ytdl": "^0.3.14"
+    "request": "^2.88.0",
+    "xml2js": "^0.4.19",
+    "youtube-node": "^1.3.3",
+    "youtube-playlist": "^1.0.2",
+    "ytdl": "^0.11.1"
   }
 }
